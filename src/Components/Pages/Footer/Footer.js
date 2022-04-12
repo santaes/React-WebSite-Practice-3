@@ -9,7 +9,7 @@ import {
   FaTwitter,
   FaLinkedin,
 } from 'react-icons/fa';
-import { MdFingerprint } from 'react-icons/md';
+
 import BTS from '../../../../src/Untitled.png';
 
 function Footer() {
